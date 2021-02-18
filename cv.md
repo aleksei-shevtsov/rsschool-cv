@@ -16,7 +16,7 @@ function helloWorld(){
 };
 ```
 ## Work experience
-+ 4 month creating sites on WordPress
++ 4 month creating sites on CMS WordPress
 ## Education
 + freeCodeCamp (600h)
 + Polytechnical College
